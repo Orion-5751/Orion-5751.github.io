@@ -1,0 +1,25 @@
+header, h1 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header, h2 {
+    background-color: #272a5d;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+header, h4 {
+    background-color: #585ba1;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+  
+#skills {
+    font-size: large;
+    padding: auto;
+}
